@@ -9,6 +9,10 @@ namespace CommandParser
     //Contains the parsing logic
     public class Parser
     {
-        //parser logic
+       // public static List<> commandSplit { String command}
+
+          //  String [] commandsSplit =  stringToParse
+        }
+       
     }
-}
+
